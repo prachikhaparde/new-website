@@ -1,0 +1,31 @@
+body
+{
+     background-color: #fff3d9;
+
+}
+. info
+{
+     float: right;
+     width: 59%;
+}
+.fort
+{
+     float: right;
+     width: 39%;
+}
+ p
+{
+     padding-top: 250px;
+     padding-left: 200px;
+     font-family:Forte;
+     color: #7d1828;
+     margin: 10px;
+}
+.info a
+{      
+     text-decoration: none;
+     color: #7d1828;
+     font-family: Forte;
+     font-size: 10px;
+     padding-left: 210px;
+}

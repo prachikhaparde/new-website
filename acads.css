@@ -1,0 +1,31 @@
+.acads
+{
+     float: left;
+     width: 59%;
+}
+.book
+{
+      float: left;
+      width: 39%;
+
+}
+.acads
+{
+      font-family: Forte;
+      font-size: 30px;
+}
+
+li
+{
+      margin: 20px;
+}
+ul
+{
+      padding-top: 100px;
+      padding-left: 100px;
+}
+a
+{
+      text-decoration: none;
+      padding-left: 100px;
+}
